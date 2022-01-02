@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MiBanca</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Nombre</string>
+    <string name="prompt_lastname">Apellidos</string>
+    <string name="action_sign_up">Registrarme</string>
+    <string name="action_sign_in_short">Iniciar Sesion</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="welcome">¡Bienvenido a MiBanca!</string>
+    <string name="login">Ingresa tus credenciales para iniciar sesion</string>
+    <string name="termsCondition">Acepto Terminos y Condiciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_card">Añadir</string>
+    <string name="exp_date_label">Exp Date: </string>
+    <string name="add_card_label">Agregar Tarjeta</string>
+    <string name="prompt_pan">Numero de Tarjeta</string>
+    <string name="prompt_cardholder">Nombre Beneficiario</string>
+    <string name="prompt_security_code">CVV/CVC</string>
+    <string name="prompt_expdate">Fecha de Exp</string>
+    <string name="prompt_save">Guardar</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="mi_cartera">Mi Cartera</string>
+    <string name="title_wallet">Mi Cartera</string>
+    <string name="mis_movimientos">Mis Movimientos</string>
+    <string name="transfer_label">Transferir</string>
+    <string name="prompt_dest_account">Tarjeta Beneficiario</string>
+    <string name="prompt_select_card">Seleccione Tarjeta</string>
+    <string name="prompt_amount">Ingese Monto</string>
+    <string name="prompt_concept">Concepto</string>
+    <string name="no_movements">No tienes movimientos que mostrar</string>
+    <string name="welcome_b">¡Bienvenido!</string>
+    <string name="menu">Menú</string>
+    <string name="ultimos_movimientos">Últimos Movimientos</string>
+    <string name="your_balance">Tu Saldo</string>
+</resources>
